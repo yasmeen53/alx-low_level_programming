@@ -1,10 +1,10 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-/*
- * main - print the answer that states what it is positive , negative , zero .
- * Return: 0
- * */
+/**
+* main - print the answer that states what it is positive , negative , zero .
+* Return: always 0 
+*/
 int main(void)
 {
 	int n;
