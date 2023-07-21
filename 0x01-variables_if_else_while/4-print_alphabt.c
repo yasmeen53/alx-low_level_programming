@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - Prints the alphabet except the letters q and e.
+ * main - 4-print_alphabt.c
 (*
- * Return: 0 on success
+ * Return: 0
  */
 int main(void)
 {

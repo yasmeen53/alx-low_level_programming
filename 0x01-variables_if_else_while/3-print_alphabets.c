@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - Prints the alphabet in lowercase, then in uppercase.
+ * main - 3-print_alphabets.c
 (*
- * Return: 0 on success
+ * Return: 0
  */
 int main(void)
 {

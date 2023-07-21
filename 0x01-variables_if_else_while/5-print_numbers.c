@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - Prints the numbers from 0-9.
+ * main - 5-print_numbers.c
 (*
- * Return: 0 on success
+ * Return: 0
  */
 int main(void)
 {

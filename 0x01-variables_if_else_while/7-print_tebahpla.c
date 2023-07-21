@@ -1,18 +1,18 @@
 #include <stdio.h>
-
 /**
- * main - Prints the lowercase alphabet in reverse.
- *
- * Return: Always 0.
+ * main - 7-print_tebahpla.c
+(*
+ * Return: 0
  */
 int main(void)
 {
-	char letter;
+	char c = 'z';
 
-	for (letter = 'z'; letter >= 'a'; letter--)
-		putchar(letter);
-
+	while (c >= 'a')
+	{
+		putchar(c);
+		c--;
+	}
 	putchar('\n');
-
 	return (0);
 }
